@@ -42,10 +42,21 @@ Skilled in **iOS/Android deployment** and proficient in state management using *
 
 ---
 
-## 📫 Contact
+## 📫 Connect with Me
 
-- **Email:** shakeel86sj@gmail.com
-- **LinkedIn:** https://www.linkedin.com/in/shakeel86ahmed/ 
-- **GitHub:** https://github.com/ShakeelSJ
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shakeel86sj@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shakeel86ahmed/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShakeelSJ)
 
 ---
+
+## 📊 GitHub Stats
+
+![Shakeel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShakeelSJ&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShakeelSJ&layout=compact&theme=tokyonight)
+
+---
+
+## 👀 Profile Visitors
+
+![Visitor Count](https://komarev.com/ghpvc/?username=ShakeelSJ&color=blue&style=flat-square)
