@@ -6,8 +6,6 @@ Skilled in **iOS/Android deployment** and proficient in state management using *
 
 ---
 
-## 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ShakeelSJ&show_icons=true&theme=tokyonight" height="165" style="margin-right: 10px;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShakeelSJ&layout=compact&theme=tokyonight" height="165" />
