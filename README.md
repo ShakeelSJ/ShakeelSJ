@@ -78,8 +78,8 @@ Open to relocation anywhere.
 
 ## 📫 Contact
 
-- **Email:** [Your Email Here]  
-- **LinkedIn:** [Your LinkedIn Profile Link]  
-- **GitHub:** [Your GitHub Profile Link]  
+- **Email:** shakeel86sj@gmail.com
+- **LinkedIn:** [[Your LinkedIn Profile Link]](https://www.linkedin.com/in/shakeel86ahmed/)  
+- **GitHub:** [[Your GitHub Profile Link] ](https://github.com/ShakeelSJ) 
 
 ---
