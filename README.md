@@ -1,9 +1,5 @@
 # 👨‍💻 Shakeel Ahmed — Software Engineer | Flutter Developer
 
-Experienced **Software Engineer** with **4+ years** of expertise in **web** and **mobile app development**.  
-Specialized in **Dart/Flutter**, REST API integration, **Firebase**, and **Payment Gateway** solutions.  
-Skilled in **iOS/Android deployment** and proficient in state management using **GetX** & **Provider**.  
-
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ShakeelSJ&show_icons=true&theme=tokyonight" height="165" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
