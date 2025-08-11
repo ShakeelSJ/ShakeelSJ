@@ -4,19 +4,14 @@ Experienced **Software Engineer** with **4+ years** of expertise in **web** and 
 Specialized in **Dart/Flutter**, REST API integration, **Firebase**, and **Payment Gateway** solutions.  
 Skilled in **iOS/Android deployment** and proficient in state management using **GetX** & **Provider**.  
 
----
-
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ShakeelSJ&show_icons=true&theme=tokyonight" height="165" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShakeelSJ&layout=compact&theme=tokyonight" height="165" />
 </p>
 
----
 **Profile Views**  
 ![Visitor Count](https://komarev.com/ghpvc/?username=ShakeelSJ&color=blue&style=flat-square)
-
----
 
 **Mobile Development**  
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
