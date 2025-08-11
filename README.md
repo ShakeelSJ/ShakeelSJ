@@ -6,6 +6,19 @@ Skilled in **iOS/Android deployment** and proficient in state management using *
 
 ---
 
+## 📊 GitHub Stats
+
+![Shakeel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShakeelSJ&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShakeelSJ&layout=compact&theme=tokyonight)
+
+---
+
+## 👀 Profile Visitors
+
+![Visitor Count](https://komarev.com/ghpvc/?username=ShakeelSJ&color=blue&style=flat-square)
+
+---
+
 ## 🛠 Skills
 
 **Mobile Development**  
@@ -49,14 +62,3 @@ Skilled in **iOS/Android deployment** and proficient in state management using *
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShakeelSJ)
 
 ---
-
-## 📊 GitHub Stats
-
-![Shakeel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShakeelSJ&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShakeelSJ&layout=compact&theme=tokyonight)
-
----
-
-## 👀 Profile Visitors
-
-![Visitor Count](https://komarev.com/ghpvc/?username=ShakeelSJ&color=blue&style=flat-square)
