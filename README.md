@@ -4,9 +4,6 @@ Experienced **Software Engineer** with **4+ years** of expertise in **web** and 
 Specialized in **Dart/Flutter**, REST API integration, **Firebase**, and **Payment Gateway** solutions.  
 Skilled in **iOS/Android deployment** and proficient in state management using **GetX** & **Provider**.  
 
-Developed and deployed **20+ mobile apps** and **5+ web apps**, committed to delivering **high-quality** solutions for **innovative projects**.  
-Open to relocation anywhere.
-
 ---
 
 ## 🛠 Skills
