@@ -13,7 +13,7 @@ Skilled in **iOS/Android deployment** and proficient in state management using *
 </p>
 
 ---
-
+**Profile Views**  
 ![Visitor Count](https://komarev.com/ghpvc/?username=ShakeelSJ&color=blue&style=flat-square)
 
 ---
@@ -41,8 +41,8 @@ Skilled in **iOS/Android deployment** and proficient in state management using *
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white) 
 
----
 
+**Contact me**  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shakeel86sj@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shakeel86ahmed/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShakeelSJ)
