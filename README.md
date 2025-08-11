@@ -14,13 +14,9 @@ Skilled in **iOS/Android deployment** and proficient in state management using *
 
 ---
 
-## 👀 Profile Visitors
-
 ![Visitor Count](https://komarev.com/ghpvc/?username=ShakeelSJ&color=blue&style=flat-square)
 
 ---
-
-## 🛠 Skills
 
 **Mobile Development**  
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
@@ -46,17 +42,6 @@ Skilled in **iOS/Android deployment** and proficient in state management using *
 ![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white) 
 
 ---
-
-## 🚀 Projects
-
-- [Telemart Beta (Android)](https://play.google.com/store/apps/details?id=com.icl.telemartbeta&hl=en&gl=US)  
-- [Khayal Hai (Android)](https://play.google.com/store/apps/details?id=com.nativebrains.khayalhai&hl=en&gl=US)  
-- [TrakMD Doctor App (iOS)](https://apps.apple.com/us/app/trakmd-doctor-app/id1476907007)  
-- [TAK App (Android)](https://play.google.com/store/apps/details?id=com.speedylancer.tak_app)  
-
----
-
-## 📫 Connect with Me
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shakeel86sj@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shakeel86ahmed/)
