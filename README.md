@@ -36,41 +36,6 @@ Open to relocation anywhere.
 
 ---
 
-## 💼 Professional Experience
-
-**Flutter Developer** — *Crystallite Pakistan (PVT) Limited*  
-📅 05/2023 – Present | Karachi, Pakistan  
-- Developed & maintained Flutter-based mobile apps.  
-- Collaborated with cross-functional teams to define requirements & deliver quality solutions.  
-- Improved app performance with UI/UX enhancements & optimizations.  
-- Conducted code reviews, debugging & performance tuning.
-
-**Flutter Developer** — *Fossphorus*  
-📅 12/2022 – 05/2023 | Karachi, Pakistan  
-- Built a Flutter-based e-commerce app with smooth backend integration.  
-
-**Flutter Developer** — *SpeedyLancer*  
-📅 10/2021 – 12/2022 | Karachi, Pakistan  
-- Developed a complete Flutter-based e-commerce app from scratch.  
-- Managed WooCommerce REST API integration independently.  
-
-**Jr. Flutter Developer** — *Native Brains*  
-📅 08/2021 – 10/2021 | Karachi, Pakistan  
-- Created an e-commerce mobile app using Flutter from concept to launch.
-
-**Front End Developer** — *Native Brains*  
-📅 05/2020 – 10/2021 | Karachi, Pakistan  
-- Developed responsive web applications ensuring cross-browser compatibility.
-
----
-
-## 🎓 Education
-
-- **Intermediate** — Askari Intermediate College (2020 – 2022)  
-- **Web & Mobile App Diploma** — Save Our Souls Technical Training Institute  
-
----
-
 ## 🚀 Projects
 
 - [Telemart Beta (Android)](https://play.google.com/store/apps/details?id=com.icl.telemartbeta&hl=en&gl=US)  
